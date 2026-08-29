@@ -1,4 +1,4 @@
-Collaboration Demo Project - Updated by Branch A
+Collaboration Demo Project - Updated by Branch A & B 
 Version 1.0
 This project is a simple example for practicing Git and GitHub collaboration, including issues, branches, commits, and pull requests.
 
