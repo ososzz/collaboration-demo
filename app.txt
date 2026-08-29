@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+This project is a demonstration repository created to practice Git and GitHub collaboration features, including Issues, branches, commits, and pull requests.
+
